@@ -2,7 +2,7 @@
 ##############################
 text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://xvrmw.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
+url     : https://okwm.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : Jiaming's Blog
 description: > # this means to ignore newlines until "Language & timezone"
@@ -33,14 +33,14 @@ author:
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : xvrmw # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  github    : okwm # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: xvrmw/xvrmw.github.io
-repository_tree: master
+repository: okwm/okwm.github.io
+repository_tree: main
 
 
 ## => Paths
